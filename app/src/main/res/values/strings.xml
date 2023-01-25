@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">student</string>
+    <string name="title_dashboard">dashboard</string>
+    <string name="title_favourite">starred</string>
+    <string name="title_add_record">add_record</string>
+    <string name="title_search">search</string>
+    <string name="title_settings">settings</string>
+    <string name="name">name</string>
+    <string name="desc">Description</string>
+</resources>
